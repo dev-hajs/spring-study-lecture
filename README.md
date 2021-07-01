@@ -1,8 +1,3 @@
 # spring-study-lecture
-spring 강의 실습용 레포지토리
-
-
-### 강의 정보
-* Inflearn
-* 스프링 핵심 원리 이해
-* 김영한🙏 님
+* spring 강의 실습용 레포지토리
+* 🌱 스프링 핵심 원리 이해
