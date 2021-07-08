@@ -8,7 +8,7 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class OrderAppTest {
+public class OrderServiceTest {
 
     MemberService memberService;
     OrderService orderService;
@@ -29,4 +29,5 @@ public class OrderAppTest {
         Order order = orderService.createOrder(memberId, "itemA", 10000);
         Assertions.assertThat(order.getDiscountPrice()).isEqualTo(1000);
     }
+
 }
