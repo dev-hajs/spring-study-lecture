@@ -20,7 +20,8 @@ public class BeanLifeCycleTest {
     static class LifeCycleConfig {
 
 //        @Bean(initMethod = "init") // destroyMethod 의 자동추론기능으로 생략해도 close method 를 호출해준다.
-        @Bean(initMethod = "init", destroyMethod = "close")
+//        @Bean(initMethod = "init", destroyMethod = "close")
+        @Bean
         public NetworkClient networkClient() {
             NetworkClient networkClient = new NetworkClient();
             networkClient.setUrl("http://hello-spring.dev");
