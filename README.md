@@ -7,3 +7,4 @@
 * mvc1 : https://github.com/dev-hajs/spring-study-lecture-mvc1
 * mvc1(app) : https://github.com/dev-hajs/spring-study-lecture-mvc1-app
 * mvc1(item-service) : https://github.com/dev-hajs/spring-study-lecture-mvc1-item-service
+* mvc2(thymeleaf-basic) : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-basic
