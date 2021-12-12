@@ -11,3 +11,4 @@
 * mvc2
   * thymeleaf-basic : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-basic
   * thymeleaf-form  : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-form
+  * message         : https://github.com/dev-hajs/spring-study-lecture-mvc2-message 
