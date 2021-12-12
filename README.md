@@ -4,8 +4,10 @@
 
 ## repo
 * hello : https://github.com/dev-hajs/spring-study-lecture-hello
-* mvc1 : https://github.com/dev-hajs/spring-study-lecture-mvc1
-* mvc1(app) : https://github.com/dev-hajs/spring-study-lecture-mvc1-app
-* mvc1(item-service) : https://github.com/dev-hajs/spring-study-lecture-mvc1-item-service
-* mvc2(thymeleaf-basic) : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-basic
-* mvc2(thymeleaf-form) : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-form
+* mvc1
+  * basic         : https://github.com/dev-hajs/spring-study-lecture-mvc1
+  * app           : https://github.com/dev-hajs/spring-study-lecture-mvc1-app
+  * item-service  : https://github.com/dev-hajs/spring-study-lecture-mvc1-item-service
+* mvc2
+  * thymeleaf-basic : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-basic
+  * thymeleaf-form  : https://github.com/dev-hajs/spring-study-lecture-mvc2-thymeleaf-form
