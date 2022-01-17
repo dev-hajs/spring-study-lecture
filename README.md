@@ -14,3 +14,4 @@
   * message         : https://github.com/dev-hajs/spring-study-lecture-mvc2-message 
   * validation      : https://github.com/dev-hajs/spring-study-lecture-mvc2-validation
   * login           : https://github.com/dev-hajs/spring-study-lecture-mvc2-login
+  * exception       : https://github.com/dev-hajs/spring-study-lecture-mvc2-exception
